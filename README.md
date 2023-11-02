@@ -1,8 +1,11 @@
-# React + Vite
+#ChatPageFarawin
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi,
+In this Repo I built a simple chatpage which can show user contacts and their chats with the user . Also I add some feathures like Add , Edit and Delete contact to customize contacts .
+This project has a Online Server that you could send and receive chats and contacts Online .
+Made by ReactJS and Love <3 .
+I am going to made lots of projects with react and other new technologies asap.
 
-Currently, two official plugins are available:
+Sincerely 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+MohammadReza Parhizkar , FrontEnd Developer
